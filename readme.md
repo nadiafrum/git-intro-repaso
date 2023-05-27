@@ -49,3 +49,6 @@ git diff
 
 Este archivo me sirve para ignorar carpetas o archivos que no quiero que sean parte del repositorio (LR). Normalmente va sobre la raiz del proyecto.
 
+## Si quiero seguir una carpeta vacia
+Tengo que crear un archivo con el nombre **.gitkeep** porque git no versiona carpetas vacias
+
