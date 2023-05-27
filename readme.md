@@ -26,3 +26,5 @@ Nota: esto crea en la raiz del proyecto la carpeta .git
 * Modified: archivos que se encuentran en el repositorio (estan siendo seguidos por GIT) y difieren del WD
 * Staged: archivos que estan en el area temporal/intemedia.
 
+## Saber estado actual de los archivos
+
