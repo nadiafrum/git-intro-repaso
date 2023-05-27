@@ -52,3 +52,9 @@ Este archivo me sirve para ignorar carpetas o archivos que no quiero que sean pa
 ## Si quiero seguir una carpeta vacia
 Tengo que crear un archivo con el nombre **.gitkeep** porque git no versiona carpetas vacias
 
+## Para subir el repositorio local al remoto
+
+1. Tengo que crear un repositorio remoto en GitHub
+2. Seguir las instrucciones que correspondan para el caso
+3. Agrego la url del remoto ami repo local.
+4. Hago el push
