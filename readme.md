@@ -45,3 +45,7 @@ git log --oneline # historia resumida en una sola linea
 ```sh
 git diff
 ```
+## .gitignore
+
+Este archivo me sirve para ignorar carpetas o archivos que no quiero que sean parte del repositorio (LR). Normalmente va sobre la raiz del proyecto.
+
