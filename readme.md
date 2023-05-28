@@ -58,3 +58,25 @@ Tengo que crear un archivo con el nombre **.gitkeep** porque git no versiona car
 2. Seguir las instrucciones que correspondan para el caso
 3. Agrego la url del remoto ami repo local.
 4. Hago el push
+
+# Git ramas (Branches)
+
+```sh
+git branch nombre que quiero que tenga la rama
+git branch prueba
+```
+
+## Listar las ramas que tengo disponibles
+
+```sh
+git branch
+```
+
+## Cambiar entre ramas
+
+```sh
+git switch nombre de la rama a la que quiero cambiar
+```
+
+
+
